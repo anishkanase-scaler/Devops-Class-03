@@ -1,0 +1,12 @@
+  PID TTY           TIME CMD
+  668 ttys000    0:00.02 -zsh
+  679 ttys001    0:00.02 -zsh
+53036 ttys002    0:00.39 -zsh
+40513 ttys004    0:00.02 /bin/zsh -i
+40514 ttys005    0:00.02 /bin/zsh -i
+40515 ttys006    0:00.02 /bin/zsh -i
+44127 ttys007    0:00.07 /bin/zsh -i
+  849 ttys008    0:00.04 /bin/zsh -il
+  976 ttys009    0:00.14 /bin/zsh -il
+ 2496 ttys010    0:00.27 /bin/zsh -il
+ 6274 ttys010    0:00.01 sh ./task.sh
